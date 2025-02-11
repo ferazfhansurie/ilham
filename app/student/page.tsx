@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { GamificationStatus } from "@/components/gamification"
 import { SubjectSelection } from "@/components/subject-selection"
 import axios from 'axios'
-
+//
 interface ChatMessage {
   from_me: boolean
   type: string
